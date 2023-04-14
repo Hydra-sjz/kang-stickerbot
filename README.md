@@ -8,5 +8,5 @@ A simple Telegram bot which creates sticker packs from other stickers, images, d
 
 ## Credits:
 - [`skittles9823`](https://github.com/skittles9823)
-
+d
 And many more people who aren't mentioned here, but may be found in [Contributors](https://github.com/breakdowns/kang-stickerbot/graphs/contributors).
